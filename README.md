@@ -7,8 +7,5 @@ Projects done by Students of Eldora
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-meme.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=eldorastudents&icon=0&color=10)](https://visitcount.itsvg.in)
